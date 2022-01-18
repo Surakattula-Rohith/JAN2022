@@ -1,0 +1,1 @@
+document.getElementsByTagName('button')[0].addEventListener("click",function(){document.getElementsByTagName('p')[3].style.color="#ff0011"})
